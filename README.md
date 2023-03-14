@@ -1,6 +1,6 @@
 # say
 
-这是一个说明
+大家看看这是一个说明
 
 ## Getting started
 
